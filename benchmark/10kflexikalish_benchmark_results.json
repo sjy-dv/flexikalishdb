@@ -1,0 +1,10 @@
+{
+  "timestamp": "2024-02-23T05:29:01.811Z",
+  "testName": "FlexiKalish insert 10k",
+  "duration": 1130.42769998312,
+  "dataSize": 10000,
+  "result": {
+    "success": 10000,
+    "failures": 0
+  }
+}

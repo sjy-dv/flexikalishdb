@@ -1,0 +1,10 @@
+{
+  "timestamp": "2024-02-23T05:05:31.518Z",
+  "testName": "Mongo insert 500",
+  "duration": 465.08709996938705,
+  "dataSize": 500,
+  "result": {
+    "success": 500,
+    "failures": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2024-02-23T05:12:51.932Z",
+  "testName": "Mysql insert 500",
+  "duration": 3715.3412999510765,
+  "dataSize": 500,
+  "result": {
+    "success": 500,
+    "failures": 0
+  }
+}
